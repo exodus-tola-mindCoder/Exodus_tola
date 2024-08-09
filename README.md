@@ -2,12 +2,12 @@
 - 👀 I’m interested in tech-related things.
 - 🌱 I’m currently learning MERN Full-Stack Development.
 - 💞️ I’m looking to collaborate on different projects.
-- 📫 How to reach me: tolagemechu433@gmail.com
+- 📫 How to reach me: exodusgemechu@gmail.com
 - 😄 Pronouns: he/him
 
 - ## 🛠️ Tech Stack
-- 💻 **Languages:** JavaScript, HTML, CSS
-- 🌐 **Frameworks:** React, Node.js, Express.js
+- 💻 **Languages:** Vanila JavaScript, HTML5, CSS3
+- 🌐 **Frameworks:** React, Node.js, Express.js, jquery, bootstraps5
 - 🛢️ **Databases:** MongoDB
 - ⚙️ **Tools:** Git, GitHub, VS Code
 
