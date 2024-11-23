@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Exodus tola (Self-Taught Programmer)
 - 👀 I’m interested in tech-related things.
-- 🌱 I’m currently learning MERN Full-Stack Development.
+- 🌱 I’m currently learning Full-Stack Development.
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me: exodusgemechu@gmail.com
 - 😄 Pronouns: he/him
