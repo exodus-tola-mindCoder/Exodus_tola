@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Exodus tola (Self-Taught Programmer)
+## 👋 Hi, I’m Exodus tola christ believer | passionate about solving problems
 - 👀 I’m interested in tech-related things.
 - 🌱 I’m currently learning Full-Stack Development.
 - 💞️ I’m looking to collaborate on different projects.
